@@ -1,0 +1,32 @@
+body{
+	margin:40px auto;
+	max-width:650px;
+	line-height:1.6;
+	font-family: Tahoma, sans-serif;
+	font-size:18px;
+	color:#483D3F;
+	background-color: #E0E0CE;
+	padding:010px
+}
+
+h1,h2,h3{line-height:1.2}
+
+img {
+	padding: 0;
+	display: block;
+	margin: 0 auto;
+	max-height: 100%;
+	max-width: 100%;
+}
+
+a:link, a:visited {
+	color: #09814A;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #E94F37;
+	background-color: transparent;
+	text-decoration: underline;
+}
